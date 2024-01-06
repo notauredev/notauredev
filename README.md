@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 💬 Ask me about **C++, Python, and Front-end languages !**
+- 💬 Ask me about **C++, Python, Lua and Front-end languages !**
 
 - 📫 How to reach me **https://discord.com/users/958693019958247454**
 
