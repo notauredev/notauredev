@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aurélien</h1>
+<h1 align="center">Hi 👋, I'm Auré</h1>
 <h3 align="center">I'm a passionate French dev !</h3>
 
 - 🌱 I’m currently learning **Java.**
